@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Practical Topic Radar"
+  short_description: "Find China-landable creator/platform AI practice cases around a seed topic."
+  default_prompt: "Run today's AI Practical Topic Radar. If I provide a seed topic, search Xiaohongshu, Bilibili, Douyin, GitHub, and web search for interesting creator/practitioner cases around that topic. If I do not provide a seed topic, generate hot combinations from Codex, Claude Code, OpenClaw, WorkBuddy, Coze, Dify, n8n, marketing, office work, personal planning, knowledge base, image, video, website, and spreadsheet scenarios. Find 10 China-landable cases worth trying, adapting, teaching, or turning into demos."
